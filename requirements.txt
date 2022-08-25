@@ -148,5 +148,6 @@ webencodings==0.5.1
 Werkzeug==2.2.1
 widgetsnbextension==3.6.0
 xarray==2022.6.0
+xgboost==1.6.2
 xlrd==2.0.1
 zipp==3.8.0
